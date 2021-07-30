@@ -6033,7 +6033,7 @@ a.to-the-top > * {
 	.entry-content > .alignwide:not(.wp-block-group.has-background),
 	.entry-content > .alignfull:not(.wp-block-group.has-background) {
 		margin-bottom: 8rem;
-		margin-top: 8rem;
+		margin-top: 0rem;
 	}
 
 	/* ENTRY MEDIA */
